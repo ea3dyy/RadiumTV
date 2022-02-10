@@ -1,0 +1,293 @@
+Comenca play
+(1) - Sputnik Mundo Radio-----------------
+(2) - Radio CienciaES---------------------
+(3) - Rac 1---------------------------------------
+(4) - La SER-------------------------------------
+(5) - Radio 5 Todo Noticias RNE -------
+(6) - Onda Cero -------------------------------
+(7) - Catalunya Ràdio -----------------------
+(8) - Ràdio 4 -----------------------------------
+(9) - Radio Intereconomia -----------------
+(10) - Catalunya Informació --------------
+(11) - Argentina- Radio Nacional-------
+(12) - Argentina- Radio Dos FM----------
+(13) - Argentina- Radio Latina----------
+(14) - Argentina- Radio Maria-----------
+(15) - Argentina- Radio Cristal------------
+(16) - Argentina- Radio Meridiano-------
+(17) - Argentina- Radio República-------
+(18) - Argentina- Radio UNO Santa Fe
+(19) - Argentina- Radio Popular----------
+(20) - Argentina- Radio Cultura----------
+(21) . Argentina- Radio Metro-------------
+(22) - Argentina- Radio Melodi------------
+(23) - Argentina- Radio Mega-------------
+(24) - Argentina- Radio Universidad---
+(25) - Argentina-Radio Berlin-------------
+(26) - Argentina- Digital FM--------------
+(27) - Argentina-Radio Buenos Aires
+(28) - Argentina-Radio Street------------
+(29) - Argentina-Red Aleluya-------------
+(30) - Argentina-Radio con vos-----------
+(31) - Argentina-Radio Provincia-------
+(32) - Argentina-La 990-------------------
+(33) - Argentina-Del Siglo Musical-----
+(34) - Argentina-Ama FM----------------
+(35) - CNN Radio Argentina 950-------
+(36) - Nacional Lago Argentino-------
+(37) - Rad Atlanta-Mar del Plata--------
+(38) - Argentina-Buenos Aires Radio--
+(39) - Argentina-Radio del Plata AQN-
+(40) - Argentina-Radio Libertador------
+(41) - Argentina-Radio San Salvador--
+(42) - Argentina-Radio Sarmiento------
+(43)- Radio Universidad de Córdoba-
+(44) - Argentina-Radio OM Radio--------
+(45) - Argentina-Radio Belgrano--------
+(46) - Argentina-Radio Arias FM--------
+(47) - Argentina-Radio Cumbre AM-----
+(48) - Argentina-La ocho 830----------
+(49) - Argentina-Radio Golfo Nuevo---
+(50) - Argentina-Radio Ideal-----------
+(51) - Argentina-Radio RHEMA---------
+(52)-Argent-Radio Victoria 9 de Julio
+(53) - Argentina-Radio Villa Mercedes
+(54) - Argentina-Radio La Red-----------
+(55)-Argent-Radio Coronel Olavarria-
+(56)-Argent-Radio General San Martin
+(57) - Argentina-Radio La Boca---------
+(58) - Radio Nacional de Colombia-----
+(59) - Colombia-Radio Caracol--------
+(60) - Colombia-HJLN W Radio-------
+(61) - Colombia-HJVC RCN Radio ---
+(62)-Colom-Em Cultural U Antioquia---
+(63) - Colombia-HJD 7 BLU RADIO---
+(64) - Colombia- La Cariñosa Cucua--
+(65)-Colombia-HJPU Candela Estereo
+(66) - Colombia-La Caqueteña----------
+(67) - Colombia-La Mega Medellin------
+(68) - Colombia-Besame FM-------------
+(69) - Colombia-HJJK Radioacktiva--
+(70) - Colombia-Radio NASA------------
+(71) - Colombia-Radio UNO Bogota----
+(72) - Colombia-HJTO La Z---------------
+(73) - Colombia-Brisas de San Juan---
+(74)-Colomb-HJCV Tropicana Pereira
+(75)-Col-E Minuto de Dios de Bogota-
+(76) - Colombia-HJRO Radio Tiempo-
+(77) - Colombia-HJUC Camara FM-----
+(78)-Col-HJUT Universidad de Bogota
+(79) - Colombia-La FM Bogota-----------
+(80) - Colombia-La FM Cali---------------
+(81) - Colombia-La Mega Cali-------------
+(82)-Col-UN RadUniversidadNacional
+(83)-Colombia-HJHJ Radio Libertad--
+(84)-Col0m-HJNO Torre Fuente Radio
+(85)-Colombia-Emisora Uniamazonia-
+(86)-Colomb-La Mega Bucara Manga
+(87)-Colombia-Radio UNO Cartagena-
+(88) - Colombia-Radio UNO Pereira---
+(89) - Colombia-Univalle Estereo-------
+(90) - Colombia-La Mega Bogota-------
+(91)-Colombia-Caracol Radio Boyaca
+(92) - Colombia-Ondas del Fusacatan
+(93) - Colombia-Emisora Atlántico-----
+(94) - Colombia-La Reina Putomayo---
+(95)-Col-E Cultural RemigioAntonio 
+(96)-Col-HJQG La Poderosa del Huila
+(97)-Col-HJDO La Voz del RioGrande
+(98)-La Voz de los Centauros(Caracol)
+(99)-Co-Radio Autentica Villavicencio
+(100) - Colombia-Radio Soganoso-----
+(101)-Colom-HJDI Radio Bolivariana
+(102)-Col-HJFO La Voz de LosAndes
+(103)-Col-HJJW Ra NuevoContinente
+(104) - Colombia-Radio Sonar-----------
+(105) - Colombia-E Alcaldia Tame-----
+(106) - Bolivia- R Batallón Topáter---
+(107) - Radio Bolivia FM----------------
+(108) - Bolivia-Radio QHNA FM---------
+(109) - Bolivia-Radio Fides-------------
+(110) - Bolivia-Radio La Luz de Dios-
+(111) - Bolivia-Radio Pio XII Oruro---
+(112) - Bolivia-Radio Pio XII Siglo XX
+(113)-Bolivia R Difusora Integración
+(114)-Bolivia-R Luz del Mundo La Paz
+(115)-Boliv-Radio ACLO Chuquisaca--
+(116) - Bolivia-CP27 L Cruz del Sur----
+(117)-Bolivia-CP68 Radio Sab Rafael-
+(118) - Bolivia-Radio Ambaná -----------
+(119) - Bolivia-Radio América-----------
+(120) - Bolivia-Radio Fede Comin--------
+(121) - Bolivia-Radio Majestad------------
+(122) - Bolivia-Radio Monumental-------
+(123) - Radio Mundial de Bolivia-------
+(124) - Bolivia-Radio Pachamama--------
+(125) - Bolivia-Radio Pabanericana-----
+(126) - Bolivia-Radio Patria Nueva-----
+(127)-Bolivia-Radio Santa Cruz 960AM
+(128)- Bolivia-Rad Fides Cochabamba
+(129) - Bolivia-Radio Bartolina Sisa----
+(130)-Bolivia-Rad Loyola Fides Sucre-
+(131) - Bolivia-CP107 Radio Yaguari--
+(132) - Bolivia-Doble Ocho Radio-------
+(133) - Bolivia-El Deber Radio------------
+(134) - Bolivia-Galana FM-----------------
+(135) - Bolivia-Grupo Real---------------
+(136) - Bolivia-JHV Radio Oruro Fm---
+(137)-Bol-Kawsachun Coca Cochabamba-
+(138) - Bolivia-Radio Acio Chuquisaca
+(139) - Bolivia-Radio Camargo----------
+(140) - Bolivia-Radio Capital FM--------
+(141)-Bolivia-Radio Centro Cochabamba
+(142) - Bolivia-Radio centro Universal
+(143) - Bolivia-Radio Cinteña FM--------
+(144) - Bolivia-Radio Conquistador-----
+(145) - Bolivia-Radio Enlace FM--------
+(146) - Bolivia-Radio Éxito----------------
+(147) - Bolivia-Radio Felicidad---------
+(148) - Bolivia-Radio Fides Bermejo----
+(149) - Bolivia-Radio Kantuta-----------
+(150) - Bolivia-Radio Maramatha----------
+(151) - Bolivia-Radio Oxigeno------------
+(152) - Bolivia-Radio Pionera------------
+(153) - Bolivia-Radio Riberalta----------
+(154) - Bolivia-Radio San Simón----------
+(155) - Bolivia-Radio Solidaria RKM---
+(156) - Bolivia-Radio Caravani-----------
+(157) - Bolivia-Radio Guadalquivir-----
+(158)-Bolivia-Radio Jacinto Rodriguez
+(159) - Bolivia-Radio la Cruz del Sur--
+(160) - Honduras-HRNN Radio HRN--
+(161)-Honduras-HRCQ Samaritano-
+(162) - Honduras-HRMZ Radio Mega
+(163)-Honduras- HRLP Radio América
+(164)-Honduras-HRBK Rad StereoTalanga
+(165) - Honduras Radio Satélite--------
+(166)-Honduras-HRME Radio El Patio
+(167) - Honduras-HRMT HCH Radio---------
+(168) - Honduras-HRNP Radio Suave
+(169)-Honduras-HRNN Rad Choluteca
+(170) - Honduras-HRA 83 Radio Norte
+(171) - Honduras-HRBX Radio Perla--
+(172) - Honduras-HRZC Radio Rhema--
+(173) - Honduras-Radio Catacamas---
+(174) - Honduras-HRYT Estrella de Oro
+(175)-Honduras-HRVS Rad Católica Olancho
+(176) - Honduras-HRXS Radio Uno------
+(177) - Honduras-Estéreo Clase----------
+(178) - Honduras-Estereo Mil------------
+(179) - Honduras-Explosión FM-----------
+(180) - Honduras-Fenix FM----------------
+(181) - Honduras-HRCI FM------------------
+(182) - Honduras-HRDQ Stereo Cielo FM--
+(183) - Honduras-HRDY Dee Jay----------
+(184) - Honduras-HREU Radio Siguatepeque
+(185) - Honduras-HREW Musical FM---------
+(186) - Honduras-HRFG La Voz del Atlántico
+(187) - Honduras-HRGL Radio Crisma
+(188)-Honduras-HRHU CadenaRadial del Centro
+(189) - Honduras-HRHX Stereo Sulamita---
+(190) - Honduras-HRLP- Ceiba--------------
+(191) - Honduras-HRLV Luna FM-------------
+(192) - Honduras-HRMG Stereo Palmeras---
+(193) - Honduras-HRMH La Voz del Junco--
+(194) - Honduras-HRMK Mcintosh----------
+(195) - Honduras-HROS Otoro Radio-------
+(196) - Honduras-HROC Radio Ranchera---
+(197) - Honduras-HROS Otoro Radio----
+(198) - Honduras-HRPA Radio Stereo Palma
+(199) - Honduras-HRPU Sabrozona-------
+(200)-Honduras-HRQI Rad Stereo Juvenil
+(201) - Honduras-HRQN Radio Social---
+(202) - Honduras-HRQT Stereo Bonita--
+(203)-Honduras-HRRH La Voz de Occidente
+(204) - Honduras-HRUC Stereo Cascadas-
+(205) - Honduras-HRVS Radio Luz------
+(206) - Honduras-HRVS Suyapa FM------
+(207) - Honduras-Ideal FM--------------
+(208) - Honduras-Logos FM--------------
+(209) - Honduras-Radio Exodus----------
+(210) - Honduras-Radio Frontera------
+(211) - Honduras-Radio Lada FM--------
+(212) - Honduras-Radio Langueña FM--
+(213) - Honduras-Radio Ondas del Ulua
+(214) - Honduras-Radio Scan----------
+(215) - Honduras-Radio Zol------------
+(216) - Honduras-Stereo Naranja---
+(217) - Honduras-HRXH Radio Globo----
+(218) - Honduras-Radio Unidad Evangélica
+(219) - Honduras-Radio Visi-----------
+(220) - Honduras-Radio Luz y Vida-----
+(221) - Honduras-HRSP Radio San Pedro
+(222) - Honduras-HRTG Radio Centro---
+(223) - Honduras-HRVW Radio La Catracha
+(224) - Honduras-Radio Destellos de Luz
+(225)-Honduras-Rad Misiones Internacionales
+(226) - Honduras-Radio Río de Dios---
+(227) - Honduras-HRBH Santa Barbara-
+(228) - Honduras-Vida FM--------------
+(229) - Honduras-Encuentro Digital--
+(230) - Honduras-Estereo Genesis------
+(231) - Honduras-HRBL Radio Babilonia-----
+(232)-Honduras-HRDF Rad Ríos de Agua Viva
+(233) - Honduras-HREF Radio Canaan-------
+(234) - Honduras-HRER Cristal FM--------
+(235) - Honduras-HRZE Cortés FM----------
+(236) - Honduras-Radio America---------
+(237) - Honduras-Radio Globo Honduras FM
+(238)-Hond-Rad Río de Dios Olanchito
+(239) - Chile-Radio Cooperativa--------
+(240) - Chile-Radio Bío-Bío------------
+(241) - Chile-Radio Beethoven---------
+(242) - Chile-El Conquistador FM----
+(243) - Chile-Radio Armonía FM--------
+(244) - Chile-Rad DOS FM---------------
+(245) - Chile-Radio Infinita -------------
+(246) - Chile-Radio Positiva------------
+(247) - Chile-Radio Beat----------------
+(248) - Chile-Rock pop-------------------
+(249) - Chile-Radio Futuro--------------
+(250) - Chile-Radio Mistral--------------
+(251) - Chile-Radio Agricultura---------
+(252) - Chile-Radio Duna-----------------
+(253) - Chile-Pauta FM------------------
+(254) - Chile-Radio Caramelo FM------
+(255) - Chile-Radio Universo-----------
+(256) - Chile-Vida Nueva----------------
+(257) - Chile-Radio Mirador------------
+(257) - Chile-Okey FM-------------------
+(259) - Radio Nacional de Chile-------
+(260) - Chile-Radio Carnaval FM-------
+(261) - Chile-Radio Estilo----------------
+(262) - Chile-CB Radio Nuevo Mundo
+(263) - Chile-Radio CB BBN-------------
+(264)Chile-RTL Tropical Latina Curicó--
+(265) - Chile-CB 57 Radio Salud 570---
+(266) - Chile-CB 66 Radio UC--------- 
+(267) - Chile-Radio Plenitud--------------
+(268) - Chile-Radio Portales-----------
+(269) - Chile-CB Radio Colo--------------
+(270) - Chile-Reproducir FM-------------
+(271) - Chile-Radio Polar---------------
+(272) - Chile-Radio El Carbón---------
+(273) - Chile-Radio Corporación------
+(274)-Chile-CD 69 R Estrella del Mar
+(275) - Chile-Radio cero--------------------
+(276) - Chile-Radio Lago Villarrica--
+(277) - Chile-Radio Red Géminis-------
+(278) - Chile-Radio Sol------------------
+(279) - Chile-Radio Universal------
+(280)-Chile-USM R Univ Técnica-----
+(281) - Chile-Proclamación de radio
+(282) - Chile-XQA 5 FM------------------
+(283) - Chile-Radio Santa María-------
+(284) - Chile-Radio Santuario-----------
+(285) - Chile-Radio Genial -------------
+(286) - Chile-Radio Bienvenida---------
+(287) - Chile-Canal de radio------------
+(288) - Chile-Radio X FM---------------
+(289)-Chile-CB 63 Rad Stella Maris
+(290)-Chile-CC 86 R Inés de Suárez
+
+
